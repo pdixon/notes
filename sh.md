@@ -1,3 +1,3 @@
 # References
 
-[[http://mywiki.wooledge.org/CategoryShell]]
+[woolegde on bash][http://mywiki.wooledge.org/CategoryShell]
