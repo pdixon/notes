@@ -1,4 +1,5 @@
-# Submodules
+# Git
+## Submodules
 
 To add a submodule to a project:
 
@@ -19,6 +20,6 @@ To update the submodule:
     git commit -am"Updated stuff"`
 
 
-# References
+## References
 
 * [[http://gaarai.com/2009/04/20/git-submodules-adding-using-removing-and-updating/]]
