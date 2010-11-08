@@ -16,20 +16,15 @@ single rule:
 
 ## Selectors
 
-By Element
-: `elementName`
+By Element `elementName`
 
-By Class
-: `.className`
+By Class `.className`
 
-By ID
-: `#ID`
+By ID `#ID`
 
-By Pseudo Class
-: `:pseudoClass`
+By Pseudo Class `:pseudoClass`
 
-By Attribute
-: `[attribute{=value}]`
+By Attribute `[attribute{=value}]`
 
 ## References
 [[Opera Web Standards Curriculum|http://www.opera.com/company/education/curriculum/]]
