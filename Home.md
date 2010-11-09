@@ -5,3 +5,5 @@ Notes on various things I play with. Expect a heavy Unix bias.
 - [[C++]]
 - [[CSS]]
 - [[git]]
+
+- [[LPC1768]]
