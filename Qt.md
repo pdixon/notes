@@ -5,4 +5,4 @@
 ## Plugins
 
 ## Style Guide
-[[http://doc.trolltech.com/qq/qq13-apis.html]]
+[QT Api Style Guide](http://doc.trolltech.com/qq/qq13-apis.html)
