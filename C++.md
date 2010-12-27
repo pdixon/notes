@@ -1,7 +1,7 @@
 # C++
 
 ## See Also
-[[Qt]]
+[Qt](/Qt)
 
 ## References
 google coding standard say's reference arguments should always be `const`. i.e:
@@ -9,6 +9,7 @@ google coding standard say's reference arguments should always be `const`. i.e:
 ``` c++
     void foo(const blah &arg);
 ```
+
 not
 
 ``` c++
