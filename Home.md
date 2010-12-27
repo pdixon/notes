@@ -7,3 +7,6 @@ Notes on various things I play with. Expect a heavy Unix bias.
 - [[git]]
 
 - [[LPC1768]]
+
+- [[Debian Packaging|packaging]]
+
