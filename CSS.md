@@ -27,4 +27,4 @@ By Pseudo Class `:pseudoClass`
 By Attribute `[attribute{=value}]`
 
 ## References
-[[Opera Web Standards Curriculum|http://www.opera.com/company/education/curriculum/]]
+[Opera Web Standards Curriculum](http://www.opera.com/company/education/curriculum/)

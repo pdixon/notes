@@ -3,3 +3,6 @@ wiki-name: "Phil's Notes"
 wiki-dir: "."
 static-dir: ".static"
 
+markdown:
+    extensions: [codehilite, def_list, footnotes, fenced_code]
+    
